@@ -29,8 +29,19 @@ This project require some dependenscies to be installed, you can find the instru
    ```bash
    npm run install
    ```
+ 
+4. Enviromental Variables Set up
+
+   - Here are the environmental variables that needs to be set in a .env file.
    
-3. Start server and then the client app
+   ```
+   MongoDB =
+   Pepper =
+   Salt = 
+   JWT = 
+   ```
+
+5. Start server and then the client app
 
    ```bash
    npm run start:frontend
