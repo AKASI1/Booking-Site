@@ -1,0 +1,22 @@
+{
+  "name": "booking-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd ./api && npm i && cd ../client && npm i",
+    "start:frontend": "cd ./client && npm run start",
+    "start:backend": "cd ./api && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKASI1/Booking-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKASI1/Booking-Site/issues"
+  },
+  "homepage": "https://github.com/AKASI1/Booking-Site#readme"
+}
